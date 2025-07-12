@@ -64,8 +64,8 @@ I'm a passionate full-stack developer, programmer, and cybersecurity enthusiast 
 | [React CRM](https://github.com/ray123/crm-react) | CRM dashboard UI | React, Tailwind |
 
 ### 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com)
 [![Website](https://img.shields.io/badge/-ray.dev-000?style=flat&logo=vercel)](https://ray.dev)
 
 > 💬 Let's collaborate or discuss: DM me on [Twitter](https://twitter.com/YOUR_HANDLE) or open an issue on any repo!
