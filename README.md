@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Ray
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+👋+I'm+Ray;Cybersecurity+Researcher+%7C+Dev+%7C+Linux+Lover;Building+cool+things+with+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&width=600&lines=Hi+👋+I'm+Ray;Cybersecurity+Researcher+%7C+Dev+%7C+Linux+Lover;Building+cool+things+with+code)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ray123&style=flat-square)
 
