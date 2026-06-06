@@ -68,7 +68,7 @@ A fully containerised, self-healing ML monitoring system that detects distributi
 |---------|-------------|-------|--------|
 | [AI Tools Hub](https://github.com/Ray001-sudo/ai-tools) | Unified interface for ML/AI tooling and automation | Python, FastAPI | 🔨 Active |
 | [POS System](https://github.com/Ray001-sudo/pos) | Point-of-sale system with inventory and reporting | C++, Python, JavaScript, Tailwind | ✅ Complete |
-| [Hacking Toolkit](https://github.com/Ray001-sudo/hack-kit) | Ethical hacking and network reconnaissance scripts | Bash, Python | 🔨 Active |
+| [School Management System](https://github.com/Ray001-sudo/S.M.SY) | A school management system for Kenyan schools | Javascript, Python, Typescript | 🔨 Active |
 
 ---
 
