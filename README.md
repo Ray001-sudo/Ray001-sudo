@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://bensonray.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bensonray25@gmail.com)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-58A6FF?style=flat-square&logo=render&logoColor=white)](https://drift-dashboard-vth9.onrender.com/)
-![Visitor Count](https://komarev.com/ghpvc/?username=Ray001-sudo&style=flat-square&color=58A6FF&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=Ray001-sudo&style=flat-square&color=58A6FF&label=profile+views)
 
 </div>
 
@@ -51,14 +51,14 @@ A fully containerised, self-healing ML monitoring system that detects distributi
 - Redis-backed distributed circuit breaker — state shared across replicas, never in-process memory
 - Alert deduplication via atomic `SET NX EX` — prevents alert storms across multiple alerter replicas
 - Airflow DAG fetches fresh data, retrains, validates F1 against production model, and promotes via MLflow registry — fully automated
-- Auto baseline registration: new model versions self-register reference distributions from live traffic, eliminating the manual baseline loading requirement
-- FastAPI dashboard with JWT authentication, WebSocket live updates (2s interval), asyncio-safe broadcast with heartbeat/ping
+- Auto baseline registration: new model versions self-register reference distributions from live traffic
+- FastAPI dashboard with JWT auth, WebSocket live updates, asyncio-safe broadcast with heartbeat/ping
 - 13-panel Grafana observability suite with Prometheus scraping all services
-- Kubernetes-ready: HPA scaling on Kafka consumer lag, NetworkPolicy, PodDisruptionBudget, zero-downtime rolling deployments
+- Kubernetes-ready: HPA, NetworkPolicy, PodDisruptionBudget, zero-downtime rolling deployments
 
-**Security architecture:** OWASP security headers middleware · JWT + bcrypt auth (work factor 12) · Rate limiting via SlowAPI + Redis · Parameterised SQL only — zero string interpolation · SASL/SCRAM-512 Kafka · TLS PostgreSQL (verify-full) · Non-root containers · Read-only root filesystem · RBAC with viewer/admin roles · Full audit log with IP tracking
+**Security:** OWASP headers · JWT + bcrypt (factor 12) · SlowAPI + Redis rate limiting · Parameterised SQL · SASL/SCRAM-512 Kafka · TLS PostgreSQL · Non-root containers · RBAC · Full audit log
 
-**Stack:** `Python 3.11` `FastAPI` `Apache Kafka` `Faust-Streaming` `PostgreSQL 16` `Redis 7` `Apache Airflow` `MLflow` `Prometheus` `Grafana` `Docker` `Kubernetes` `NumPy` `SciPy` `OpenTelemetry` `Alembic` `structlog`
+**Stack:** `Python 3.11` `FastAPI` `Kafka` `Faust-Streaming` `PostgreSQL 16` `Redis 7` `Airflow` `MLflow` `Prometheus` `Grafana` `Docker` `Kubernetes` `NumPy` `SciPy` `OpenTelemetry`
 
 ---
 
@@ -66,9 +66,9 @@ A fully containerised, self-healing ML monitoring system that detects distributi
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [Sovereign Root Protocol](https://github.com/Ray001-sudo/domain-generator) | A cryptographically secure, censorship-resistant domain ownership protocol built on a peer-to-peer ledger | Rust, Javascript, Typescript | 🔨 Active |
-| [POS System](https://github.com/Ray001-sudo/pos) | Point-of-sale system with inventory and reporting | C++, Python, JavaScript, Tailwind | ✅ Complete |
-| [School Management System](https://github.com/Ray001-sudo/S.M.SY) | A school management system for Kenyan schools | Javascript, Python, Typescript | 🔨 Active |
+| [Sovereign Root Protocol](https://github.com/Ray001-sudo/domain-generator) | Cryptographically secure, censorship-resistant domain ownership protocol on a P2P ledger | Rust, TypeScript, Libp2p | 🔨 Active |
+| [POS Platform](https://github.com/Ray001-sudo/pos) | Multi-tenant point-of-sale system with offline-first C++ client and cloud sync | C++, Python, JavaScript, Tailwind | ✅ Complete |
+| [Shule360](https://github.com/Ray001-sudo/S.M.SY) | Dual-curriculum school management platform for Kenyan boarding schools (8-4-4 + CBC/CBE) | Next.js, Node.js, Python, PostgreSQL | 🔨 Active |
 
 ---
 
@@ -111,11 +111,18 @@ A fully containerised, self-healing ML monitoring system that detects distributi
 
 <div align="center">
 
-![Benson Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ray001-sudo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+<a href="https://github.com/Ray001-sudo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ray001-sudo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ray001-sudo&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ray001-sudo&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ray001-sudo&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ray001-sudo&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<br/>
+
+![Ray001-sudo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ray001-sudo&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 </div>
 
