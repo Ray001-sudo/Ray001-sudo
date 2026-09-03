@@ -111,9 +111,9 @@ A fully containerised, self-healing ML monitoring system that detects distributi
 
 <div align="center">
 
-<a href="https://github.com/Ray001-sudo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ray001-sudo&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ray001-sudo&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" />
+<a href="https://github.com/collabray">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=collabray&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=collabray&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" />
 </a>
 
 <br/><br/>
