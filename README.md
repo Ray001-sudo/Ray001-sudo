@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=750&lines=Benson+Ray+%7C+Software+Engineer;MLOps+%7C+Backend+Systems+%7C+Cybersecurity;Building+production-grade+infrastructure+from+Nairobi+🇰🇪)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&width=750&lines=Benson+Ray+%7C+Software+Engineer;MLOps+%7C+Backend+Systems+%7C+Cybersecurity;Distributed+Systems+%7C+Production+Infrastructure)](https://github.com/collabray)
 
 <br/>
 
@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://bensonray.pages.dev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:bensonray25@gmail.com)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-58A6FF?style=flat-square&logo=render&logoColor=white)](https://drift-dashboard-vth9.onrender.com/)
-![Profile Views](https://komarev.com/ghpvc/?username=Ray001-sudo&style=flat-square&color=58A6FF&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=collabray&style=flat-square&color=58A6FF&label=profile+views)
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a software engineer and cybersecurity researcher based in Nairobi, Kenya. My work sits at the intersection of backend engineering, ML infrastructure, and applied security — I build systems that are observable, resilient, and maintainable in production, not just in development.
+I'm a software engineer and cybersecurity researcher based in Nairobi, Kenya. My work sits at the intersection of backend engineering, ML infrastructure, and applied security — I build systems that matter at scale, from distributed infrastructure to models in production.
 
 I care about the operational reality of software: what happens after deployment, how systems behave under failure, and how to make complex distributed infrastructure understandable to the people who run it.
 
@@ -26,12 +26,12 @@ I care about the operational reality of software: what happens after deployment,
 
 > *Production-grade ML monitoring infrastructure. Not a notebook. Not a demo.*
 
-[![View Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ray001-sudo/drift-detector)
+[![View Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/collabray/drift-detector)
 [![Live Demo](https://img.shields.io/badge/Live_Dashboard-58A6FF?style=for-the-badge&logo=render&logoColor=white)](https://drift-dashboard-vth9.onrender.com/)
 
 ### The Problem
 
-ML models silently degrade when real-world data distributions shift away from training data. A model can have 99.9% uptime and zero HTTP errors while producing systematically wrong predictions for weeks. Standard application monitoring is completely blind to this. By the time business metrics reflect the degradation, the damage is done.
+ML models silently degrade when real-world data distributions shift away from training data. A model can have 99.9% uptime and zero HTTP errors while producing systematically wrong predictions for real users. I built a system that catches this automatically.
 
 ### What This System Does
 
@@ -56,7 +56,7 @@ A fully containerised, self-healing ML monitoring system that detects distributi
 - 13-panel Grafana observability suite with Prometheus scraping all services
 - Kubernetes-ready: HPA, NetworkPolicy, PodDisruptionBudget, zero-downtime rolling deployments
 
-**Security:** OWASP headers · JWT + bcrypt (factor 12) · SlowAPI + Redis rate limiting · Parameterised SQL · SASL/SCRAM-512 Kafka · TLS PostgreSQL · Non-root containers · RBAC · Full audit log
+**Security:** OWASP headers · JWT + bcrypt (factor 12) · SlowAPI + Redis rate limiting · Parameterised SQL · SASL/SCRAM-512 Kafka · TLS PostgreSQL · Non-root containers · RBAC · Full audit logging · OpenTelemetry tracing.
 
 **Stack:** `Python 3.11` `FastAPI` `Kafka` `Faust-Streaming` `PostgreSQL 16` `Redis 7` `Airflow` `MLflow` `Prometheus` `Grafana` `Docker` `Kubernetes` `NumPy` `SciPy` `OpenTelemetry`
 
@@ -66,9 +66,9 @@ A fully containerised, self-healing ML monitoring system that detects distributi
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [Sovereign Root Protocol](https://github.com/Ray001-sudo/domain-generator) | Cryptographically secure, censorship-resistant domain ownership protocol on a P2P ledger | Rust, TypeScript, Libp2p | 🔨 Active |
-| [POS Platform](https://github.com/Ray001-sudo/pos) | Multi-tenant point-of-sale system with offline-first C++ client and cloud sync | C++, Python, JavaScript, Tailwind | ✅ Complete |
-| [Shule360](https://github.com/Ray001-sudo/S.M.SY) | Dual-curriculum school management platform for Kenyan boarding schools (8-4-4 + CBC/CBE) | Next.js, Node.js, Python, PostgreSQL | 🔨 Active |
+| [Sovereign Root Protocol](https://github.com/collabray/domain-generator) | Cryptographically secure, censorship-resistant domain ownership protocol on a P2P ledger | Rust, TypeScript, Libp2p | ✅ Complete |
+| [POS Platform](https://github.com/collabray/pos) | Multi-tenant point-of-sale system with offline-first C++ client and cloud sync | C++, Python, JavaScript, Tailwind | ✅ Complete |
+| [Shule360](https://github.com/collabray/S.M.SY) | Dual-curriculum school management platform for Kenyan boarding schools (8-4-4 + CBC/CBE) | Next.js, Node.js, Python, PostgreSQL | 🔨 Active Development |
 
 ---
 
@@ -112,7 +112,7 @@ A fully containerised, self-healing ML monitoring system that detects distributi
 <div align="center">
 
 <a href="https://github.com/collabray">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=collabray&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=collabray&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=collabray&layout=compact&theme=github_dark&hide_border=true&langs_count=8&exclude_repo=github-readme-stats" />
 </a>
 
