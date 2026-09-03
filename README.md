@@ -118,11 +118,11 @@ A fully containerised, self-healing ML monitoring system that detects distributi
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ray001-sudo&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=collabray&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
-![Ray001-sudo's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ray001-sudo&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FFFFFF)
+![collabray's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=collabray&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=FFFFFF)
 
 </div>
 
